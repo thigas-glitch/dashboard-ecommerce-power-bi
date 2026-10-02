@@ -10,7 +10,6 @@ Consolidar as principais métricas de vendas em um painel único e interativo, p
 
 ![Preview do dashboard](dashboard-preview.png)
 
-> Substitua `dashboard-preview.png` pelo print final do dashboard, salvo na mesma pasta deste README.
 
 ## 🛠️ Ferramentas utilizadas
 
